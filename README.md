@@ -39,5 +39,5 @@ Welcome to my official developer profile. I am the main architect and creator of
 
 ### 📩 Contact & Verification
 For institutional inquiries, strategic partnerships, or listing verifications, feel free to reach out directly:
-* **Telegram (Personal Dev Chat):** [@wlakos_official](https://t.me)
+* **Telegram (Personal Dev Chat):** [@wlakos_official](https://t.me/wlakos_official)
 * **Twitter / X Profile:** [@wlakos_official](https://x.com/wlakos_official)
