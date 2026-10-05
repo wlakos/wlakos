@@ -16,8 +16,8 @@ Welcome to my official developer profile. I am the main architect and creator of
 ---
 
 ### 🛡 Core Repositories & Assets
-* 📄 [MEMEX Mobile Whitepaper & Documentation (English)](https://github.io)
-* 📄 [MEMEX Mobile Whitepaper & Documentation (Russian)](https://github.io)
+* 📄 [MEMEX Mobile Whitepaper & Documentation (English)]([https://github.io](https://wlakos.github.io/memes-assets/index-en.html))
+* 📄 [MEMEX Mobile Whitepaper & Documentation (Russian)]([https://github.io](https://wlakos.github.io/memes-assets/index.html))
 
 ---
 
