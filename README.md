@@ -16,15 +16,17 @@ Welcome to my official developer profile. I am the main architect and creator of
 ---
 
 ### 🛡 Core Repositories & Assets
-* 📄 [MEMEX Mobile Whitepaper & Documentation (English)]([https://github.io](https://wlakos.github.io/memes-assets/index-en.html))
-* 📄 [MEMEX Mobile Whitepaper & Documentation (Russian)]([https://github.io](https://wlakos.github.io/memes-assets/index.html))
+* 📄 [MEMEX Mobile Whitepaper & Documentation (English)](https://wlakos.github.io/memes-assets/index-en.html)
+* 📄 [MEMEX Mobile Whitepaper & Documentation (Russian)](https://wlakos.github.io/memes-assets/index.html)
 
 ---
 
 ### 🌐 Official Ecosystem Links
 * **Trading Terminal:** [app.memex.gg/markets](https://memex.gg)
-* **Technical Docs:** [docs.memex.gg](https://memex.gg)
-* **MEMEX Telegram:** [@memexgg](https://t.me) | **Swap Bot:** [@MemexCryptoBot](https://t.me)
+* **Technical Docs:** [docs.memex.gg](https://docs.memex.gg)
+* **MEMEX Official Twitter (X):** [@memexgg](https://x.com)
+* **MEMEX Telegram:** [@memexgg](https://t.me) 
+* **Official Swap Bot:** [@MemexCryptoBot](https://t.me)
 * **Strategic Partner:** [MEMES Foundation Ecosystem](https://memesc.org)
 
 ---
