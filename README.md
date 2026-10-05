@@ -22,18 +22,18 @@ Welcome to my official developer profile. I am the main architect and creator of
 ---
 
 ### 🌐 Official Ecosystem Links
-* **Официальный торговый терминал:** [https://app.memex.gg/markets](https://app.memex.gg/markets)
-* **Техническая документация:** [https://docs.memex.gg](https://docs.memex.gg)
-* **Официальное сообщество X (Twitter):** [https://x.com/memexgg](https://x.com/memexgg)
-* **Информационный канал в Telegram:** [https://t.me/memexgg](https://t.me/memexgg)
-* **Официальный Telegram-бот для обмена:** [https://t.me/MemexCryptoBot](https://t.me/MemexCryptoBot)
-* **Официальный партнер и создатель (Dev) токена MEMEX в X:** [https://x.com/wlakos_official](https://x.com/wlakos_official)
+* **Trading Terminal:** [https://app.memex.gg/markets](https://app.memex.gg/markets)
+* **Technical Documentation:** [https://docs.memex.gg](https://docs.memex.gg)
+* **Official X (Twitter) Community:** [https://x.com/memexgg](https://x.com/memexgg)
+* **Telegram Announcement Channel:** [https://t.me/memexgg](https://t.me/memexgg)
+* **Official Telegram Swap Bot:** [https://t.me/MemexCryptoBot](https://t.me/MemexCryptoBot)
+* **Token Creator & Dev Profile on X:** [https://x.com/wlakos_official](https://x.com/wlakos_official)
 
-**Официальный стратегический партнер. Экосистема MEMES:**
-* **Веб-сайт партнера:** [https://memesc.org](https://memesc.org)
-* **Сообщество X (Twitter):** [https://x.com/memeland_tg](https://x.com/memeland_tg)
-* **Информационный канал в Telegram:** [https://t.me/memes_announcements](https://t.me/memes_announcements)
-* **Игровое Web3 приложение в Telegram:** [https://t.me/metaland_bot](https://t.me/metaland_bot)
+**Strategic Partner: MEMES Ecosystem:**
+* **Partner Web Platform:** [https://memesc.org](https://memesc.org)
+* **X (Twitter) Community:** [https://x.com/memeland_tg](https://x.com/memeland_tg)
+* **Telegram Community Channel:** [https://t.me/memes_announcements](https://t.me/memes_announcements)
+* **Web3 Telegram Gaming App:** [https://t.me/metaland_bot](https://t.me/metaland_bot)
 
 ---
 
