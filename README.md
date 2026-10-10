@@ -1,13 +1,13 @@
-# 👋 Hi, I am Vladislav Mironenko (@wlakos)
+# MEMEX DeFi Protocol — Technical Assets & Infrastructure
 
-### 👨‍💻 Token Creator & Lead Developer of MEMEX DEX
+### 💻 Lead Developer & System Architect
 
 Welcome to my official developer profile. I am the main architect and creator of the **MEMEX** token ecosystem, deployed natively on the Solana blockchain. 
 
 ---
 
 ### 🚀 About MEMEX Project
-**MEMEX** is a next-generation decentralized perpetual futures exchange designed for high-performance trading across crypto, memecoins, tokenized equities, and Real World Assets (RWA).
+**MEMEX** is an autonomous DeFi protocol and decentralized exchange designed for high-performance trading across crypto, memecoins, tokenized equities, and Real World Assets (RWA).
 
 * **Fixed Supply:** 300,000,000 MEMEX (100% Community Fair Launch)
 * **Contract Address (CA):** `FLCZBRXSHcaRExB9dFgPDyjJWM1Angbr6z8sCqRxZeXs`
