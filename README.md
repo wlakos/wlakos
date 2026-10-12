@@ -41,3 +41,4 @@ Welcome to my official developer profile. I am the main architect and creator of
 For institutional inquiries, strategic partnerships, or listing verifications, feel free to reach out directly:
 * **Telegram (Personal Dev Chat):** [@wlakos_official](https://t.me/wlakos_official)
 * **Twitter / X Profile:** [@wlakos_official](https://x.com/wlakos_official)
+* **Official Project Email:** [30051977wlakos@gmail.com](mailto:30051977wlakos@gmail.com) | **Domain:** app.memex.gg
