@@ -25,7 +25,7 @@ Welcome to my official developer profile. I am the main architect and creator of
 * **Trading Terminal:** [https://app.memex.gg/markets](https://app.memex.gg/markets)
 * **Technical Documentation:** [https://docs.memex.gg](https://docs.memex.gg)
 * **Official X (Twitter) Community:** [https://x.com/memexgg](https://x.com/memexgg)
-* **Telegram Announcement Channel:** [https://t.me/memexgg](https://t.me/memexgg)
+* **Telegram Announcement Channel:** [https://t.me/MEMEX_DeFi_Protocol](https://t.me/MEMEX_DeFi_Protocol)
 * **Official Telegram Swap Bot:** [https://t.me/MemexCryptoBot](https://t.me/MemexCryptoBot)
 * **Token Creator & Dev Profile on X:** [https://x.com/wlakos_official](https://x.com/wlakos_official)
 
