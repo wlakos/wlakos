@@ -12,6 +12,8 @@ Welcome to my official developer profile. I am the main architect and creator of
 * **Fixed Supply:** 300,000,000 MEMEX (100% Community Fair Launch)
 * **Contract Address (CA):** `FLCZBRXSHcaRExB9dFgPDyjJWM1Angbr6z8sCqRxZeXs`
 * **Deflationary Model:** 50% of all platform fee revenues are systematically routed to automated open-market token buybacks via the "Target \$10" Hyper-Buyback protocol.
+* **Trading Pool (MEMEX / SOL):** [Dexscreener Pool](https://dexscreener.com/solana/3t5wyfwbwsudqpv1h1qn7cv87aes3ej3qpzqrnjjstmy)
+
 
 ---
 
